@@ -1,0 +1,18 @@
+uuid: 04afdea3-a01d-49fa-bef6-765f2377f5b6
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus:
+      - main
+    parent: 'main:'
+name: Curso
+type: curso
+description: ''
+help: ''
+new_revision: true
+preview_mode: 1
+display_submitted: true

@@ -1,0 +1,18 @@
+uuid: c22d39b6-6ada-409b-8e57-f51786452536
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus:
+      - main
+    parent: 'main:'
+name: Carrera
+type: carrera
+description: ''
+help: ''
+new_revision: true
+preview_mode: 1
+display_submitted: true

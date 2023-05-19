@@ -1,0 +1,19 @@
+uuid: e029dec2-f9ba-4865-9256-32b8793e013a
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: node.field_carrera_en_que_se_imparte
+field_name: field_carrera_en_que_se_imparte
+entity_type: node
+type: entity_reference
+settings:
+  target_type: node
+module: core
+locked: false
+cardinality: 3
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false
